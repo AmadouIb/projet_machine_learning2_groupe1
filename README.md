@@ -10,3 +10,7 @@ Pour des raisons de confidentialité, Olist ne fournit pas beaucoup de données,
 Enfin, votre client, Olist, a spécifié sa demande ainsi :    
 La segmentation proposée doit être exploitable et facile d’utilisation pour l’équipe marketing. Vous évaluerez la fréquence à laquelle la segmentation doit être mise à jour, afin de pouvoir effectuer un devis de contrat de maintenance. Le code fourni doit respecter la convention PEP8, pour être utilisable par Olist. Livrables Un notebook de l'analyse exploratoire (non cleané, pour comprendre votre démarche). Un notebook (ou code commenté au choix) d’essais des différentes approches de modélisation (non cleané, pour comprendre votre démarche). Un support de présentation pour la soutenance.
 
+## Auteurs
+* Ibrahim Souleymane
+* Ivana Tanguo
+* Panomangre
