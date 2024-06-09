@@ -1,5 +1,5 @@
 # projet_machine_learning2_groupe1
-Projet ISE 2 : Segments des clients OLIST
+Projet ISE 2 : Segmentation des clients OLIST
 ## Contexte du projet:  
 Olist souhaite que vous fournissiez à ses équipes d'e-commerce une segmentation des clients qu’elles pourront utiliser au quotidien pour leurs campagnes de communication.     
 Votre objectif est de comprendre les différents types d’utilisateurs grâce à leur comportement et à leurs données personnelles.
